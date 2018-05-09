@@ -25,9 +25,13 @@ runManyMaps(1,1000).
 
 * [SWI-Prolog](http://www.swi-prolog.org) - The Prolog environment used.
 
-## Authors
+## Author
 
 * **Alexander Csóka Roque** - *developed in April 2018*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## References
 
