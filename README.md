@@ -23,7 +23,7 @@ runManyMaps(1,1000).
 
 ## Authors
 
-* **Alexander Csóka Roque** - *5/9/18*
+* **Alexander Csóka Roque** - *developed in May 2018*
 
 ## References
 
