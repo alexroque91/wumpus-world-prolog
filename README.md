@@ -6,13 +6,13 @@ The Wumpus World (Originally Hunt the Wumpus) is a game created by Gregory Yob (
 
 The code uses logic programming, situational calculus, planning and heuristics to create an intelligent agent that plays the game. The original code is exaggeratedly commented (for beginners), so a less commented version was provided for those that already understand Prolog better.
 
-### Consulting
+### Preparing the ground
 
-The main file consults the [worldBuilder.pl](worldBuilder.pl) file, so they must always be in the same folder.
+To run this code you must first install a Prolog Environment such as SWI-Prolog. Once installed, double click the [main.pl](main.pl) file to open the environment on the folder. As the [main.pl](main.pl) file consults the [worldBuilder.pl](worldBuilder.pl) file, they must always be in the same folder, and the environment should be opened on that same folder.
 
 ### Running
 
-To play the game, load the main file on your Prolog environment and do:
+Once the enviroment is opened, type the following query on the Prolog environment:
 
 ```
 run.
